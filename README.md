@@ -21,4 +21,4 @@ i'm a junior Full stack Developer 💻
 [![My Skills](https://skillicons.dev/icons?i=vscode,git,github&theme=dark)](https://skillicons.dev)
 
 
-## Today I'm Learning  <code>![react](https://skillicons.dev/icons?i=js)</code> <code>![react](https://skillicons.dev/icons?i=tailwind)</code>
+## Today I'm Learning  <code>![react](https://skillicons.dev/icons?i=js)</code> <code>![react](https://skillicons.dev/icons?i=php)</code>
