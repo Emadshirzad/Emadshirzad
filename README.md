@@ -17,7 +17,7 @@ i'm a junior Full stack Developer 💻
     <img src="https://github-stats-alpha.vercel.app/api?username=Emadshirzad&cc=22272e&tc=37BCF6&ic=AE87FF&bc=AE87FF">
 </a><br><br>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,php,mysql,jquary,js&theme=dark)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,php,mysql,jquery,js&theme=dark)](https://skillicons.dev)<br>
 [![My Skills](https://skillicons.dev/icons?i=vscode,git,github&theme=dark)](https://skillicons.dev)
 
 
