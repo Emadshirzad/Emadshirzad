@@ -1,11 +1,8 @@
-<div align="left">
-My name is Emad shirzad
-
-i'm a junior Full stack Developer 💻
------------------------------
-
-*   🚀  I'm currently Learning php && laravel
-
+<p align="center">
+<a href="https://github.com/Emadshirzad">
+    <img src="https://readme-typing-svg.demolab.com?font=Firacode&size=24&duration=3000&pause=500&color=AE87FF&multiline=true&center=true&vCenter=true&width=265&height=124&lines=Emad+Shirzad;junior; FullStack Developer" alt="Typing SVG" />
+</a>
+<br/>
 <a href="shemad2022@gmail.com" target="_blank" align="center">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
@@ -19,7 +16,7 @@ i'm a junior Full stack Developer 💻
 
 *   🚀  My skills :
     
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,php,mysql,jquery,laravel,js&theme=dark)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,php,mysql,jquery,laravel,Linkedin,js&theme=dark)](https://skillicons.dev)<br>
 [![My Skills](https://skillicons.dev/icons?i=vscode,git,github&theme=dark)](https://skillicons.dev)
 
 
