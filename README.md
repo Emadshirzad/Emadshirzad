@@ -16,7 +16,7 @@
 
 *   🚀  My skills :
     
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,php,mysql,jquery,laravel,git,github,js&theme=dark)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,php,mysql,jquery,laravel,js&theme=dark)](https://skillicons.dev)<br>
 [![My Skills](https://skillicons.dev/icons?i=vscode,git,github&theme=dark)](https://skillicons.dev)
 
 
