@@ -14,10 +14,4 @@
 </a><br><br>
 
 
-*   🚀  My skills :
-    
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,php,mysql,jquery,laravel,js&theme=dark)](https://skillicons.dev)<br>
-[![My Skills](https://skillicons.dev/icons?i=vscode,git,github&theme=dark)](https://skillicons.dev)
-
-
-## Today I'm Learning  <code>![react](https://skillicons.dev/icons?i=laravel)</code> <code>![react](https://skillicons.dev/icons?i=php)</code>
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,livewire,filament,mysql,ts,js,vue,nuxtjs,html,css,bootstrap,tailwind,linux,vscode,git,github&theme=dark&perline=5)](https://skillicons.dev)<br>
