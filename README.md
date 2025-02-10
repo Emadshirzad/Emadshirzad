@@ -13,5 +13,4 @@
     <img src="https://github-stats-alpha.vercel.app/api?username=Emadshirzad&cc=22272e&tc=37BCF6&ic=AE87FF&bc=AE87FF">
 </a><br><br>
 
-
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,livewire,filament,mysql,ts,js,vue,nuxtjs,html,css,bootstrap,tailwind,linux,vscode,git,github&theme=dark&perline=5)](https://skillicons.dev)<br>
+<p align="center">[![My Skills](https://skillicons.dev/icons?i=php,laravel,mysql,ts,js,vue,nuxtjs,html,css,bootstrap,tailwind,linux,vscode,git,github&theme=dark&perline=5)](https://skillicons.dev)</p>
